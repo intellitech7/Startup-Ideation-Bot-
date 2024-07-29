@@ -1,0 +1,140 @@
+Brainstorming
+Brainstorming is a method for generating a large number of ideas quickly, without evaluating them initially
+Steps of brainstorming
+Define the Problem: Clearly state the challenge or objective
+Gather Participants: Work with a group or alone
+Generate Ideas: Write down or share as many ideas as possible No idea is too wild or impractical at this stage
+Encourage Building: Build on others' ideas and encourage creative thinking
+Review Ideas: After the session review the list and refine or prioritize the most promising ideas.
+
+
+
+
+Mind Mapping
+Mind Mapping helps organize thoughts visually showing the relationships between different ideas
+Steps of Mind Mapping
+Start with a Central Idea: Write your main concept or problem in the center of a page
+Add Branches: Draw lines outward from the central idea, each representing a related sub-idea
+Expand: Add additional branches and sub-branches to explore further details and connections
+Review and Organize: Look over the map to identify patterns or key areas of focus.
+
+
+
+
+
+SCAMPER:
+Introduction: SCAMPER is a technique for improving or innovating an idea by considering different modification prompts
+Steps of SCAMPER:
+Select an Idea: Choose an existing product or concept
+Apply SCAMPER Prompts:
+Substitute: What can you replace in the idea?,
+Combine: What if you combine it with another idea?,
+Adapt: How can you adjust it for better results?,
+Modify: What changes can enhance it?,
+Put to Another Use: How can it be used differently?,
+Eliminate: What can be removed to simplify?,
+Reverse: What if you reverse its process or components?,
+Generate Ideas: Use the prompts to develop new ideas or improvements.
+
+
+
+
+Fishbone Diagram (Ishikawa Diagram):
+Introduction: The Fishbone Diagram helps identify the root causes of a problem by visually mapping out potential causes
+Steps of Fishbone Diagram:
+Draw the Diagram: Create a large arrow pointing to the problem statement at the head of the diagram
+Identify Main Categories: Draw main branches off the arrow for major categories of causes
+Add Sub-Causes: Add smaller branches for sub-causes related to each main category
+Analyze: Review the diagram to identify and address root causes.
+
+
+
+
+
+Role Storming:
+Introduction: Role Storming involves thinking from different personas’ perspectives to generate unique ideas
+Steps of Role Storming:
+Identify Roles: Choose different roles or personas related to the problem
+Assume Roles: Think and brainstorm as if you are each role
+Generate Ideas: Develop ideas based on the perspective of each role
+Review: Collect and assess ideas from different perspectives
+
+
+
+
+Affinity Diagrams:
+Introduction: Affinity Diagrams help organize and categorize ideas into groups based on their relationships
+Steps of Affinity Diagram:
+Collect Ideas: Write each idea on a separate sticky note
+Group Ideas: Place the sticky notes on a wall or surface and group similar ideas together
+Identify Themes: Organize these groups into broader themes or categories
+Analyze: Review the grouped ideas to identify key patterns and insights.
+
+
+
+
+6 Thinking Hats:
+Introduction: The Six Thinking Hats technique involves examining a problem from six different perspectives to gain a comprehensive view
+Steps of 6 Thinking Hats:
+Understand the Hats: Familiarize yourself with each hat’s perspective:
+White: Facts and data
+Red: Emotions and feelings
+Black: Risks and problems
+Yellow: Benefits and positives
+Green: Creativity and alternatives
+Blue: Process and organization
+Adopt Each Hat: Discuss the problem while focusing on the perspective of each hat
+Generate Insights: Collect and integrate insights from all hats.
+
+
+
+
+Reverse Brainstorming:
+Introduction: Reverse Brainstorming involves thinking about ways to worsen a problem to uncover potential solutions
+Steps of Reverse Brainstorming:
+State the Problem: Define the problem you want to address
+Consider How to Worsen It: Brainstorm ways to make the problem worse
+Reverse Solutions: Take each worsening idea and reverse it to find possible solutions
+Evaluate: Assess the reversed ideas for feasibility and effectiveness.
+
+
+
+
+
+How Might We (HMW) Questions:
+Introduction: How Might We (HMW) questions reframe problems into opportunities for creative solutions
+Steps of How Might We (HMW) Questions:
+Define the Problem: Clearly state the challenge you are facing
+Reframe as HMW Questions: Turn the problem into “How might we” questions that focus on potential solutions (e.g., “How might we improve customer satisfaction?”)
+Brainstorm Solutions: Generate ideas in response to each HMW question
+Prioritize: Evaluate and prioritize the most promising ideas.
+
+
+
+
+Design Thinking:
+Introduction: Design Thinking is a user-centered approach to solving problems through empathy, ideation, and prototyping
+Steps of Design Thinking:
+Empathize: Research and understand the users’ needs and experiences
+Define: Clearly articulate the problem or challenge based on user insights
+Ideate: Brainstorm a wide range of ideas and potential solutions
+Prototype: Develop simple models or prototypes of the best idea
+Test: Gather feedback from users on the prototypes and refine the solutions based on their input.
+
+
+Ideation is the process of generating, developing, and communicating new ideas, It’s a crucial phase in problem-solving, innovation, and creative projects, aiming to explore possibilities and develop solutions to specific challenges and it includes Idea generation,Idea development,Problem solvings.
+Example Problem Statement:
+"Small local businesses often lack the resources to build an effective online presence and compete with larger e-commerce platforms. Our solution is to create an easy-to-use e-commerce platform specifically designed for local businesses to set up and manage their online stores with minimal effort."
+
+List of some Ideation Techniques:
+1.Brainstorming
+2.Mind Mapping
+3.SCAMPER
+4.Fishbone Diagram (Ishikawa Diagram)
+5.Role Storming
+6.Affinity Diagrams
+7.6 Thinking Hats
+8.Reverse Brainstorming
+9.How Might We (HMW) Questions
+10.Design Thinking
+
